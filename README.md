@@ -1,5 +1,7 @@
 # Quize-Frontend-ru
 Насколько хорошо ты знаешь Frontend пройди тест и узнай свой уровень знаний
+![image](https://user-images.githubusercontent.com/103760832/188330467-dcb4648b-9418-4f68-a963-c6c2575e738d.png)
+
 ![image](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif)
 
 
